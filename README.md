@@ -17,8 +17,8 @@ kf_inventory: product inventory data for each branch.
 [LINK DATASET](https://drive.google.com/drive/folders/18x2S2g53FG0qkhbsfob9nnAcLd-mQ6ud?usp=drive_link)
 
 #### **PRESENTATION**
-[LINK PRESENTATION - 1](https://docs.google.com/presentation/d/1VRa7ZpHL4pSLCULgsklQv8euLoVmUsSp4tnKGh5zmDE/edit?usp=sharing)
-[LINK PRESENTATION - 2](https://docs.google.com/presentation/d/1ISHakx410GHDR-gSjAJNHDnpvOeHNpQk_PDg4suQCWQ/edit?usp=sharing)
+[LINK PRESENTATION - 1](https://docs.google.com/presentation/d/e/2PACX-1vSt0ArKp9F-eP-L3eLt3aA8U1E_vyAXSGNPBhKJORkmSkE1Vr_gi5ZvdE91VjjJ3LSY6EB_ZR-D5GY0/pub?start=false&loop=false&delayms=3000)
+[LINK PRESENTATION - 2](https://docs.google.com/presentation/d/e/2PACX-1vT0YVpUvxgrv_-ptjtRUrfy96qMUcha5uGm2Ch9DA-GTSl23WipklCe5nKt1WxPQyq8cEUbOuy73Kt5/pub?start=false&loop=false&delayms=3000)
 
 #### **DASHBOARD**
 [LINK DASHBOARD](https://datastudio.google.com/reporting/50fb3bbe-452b-42a5-b1ad-dc2038aeb54a)
