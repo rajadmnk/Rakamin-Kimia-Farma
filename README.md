@@ -10,9 +10,9 @@ To ensure the company’s sustainability in line with Kimia Farma vision of beco
 
 ### **Dataset**
 This project uses four interconnected main datasets:
-kf_final_transaction: sales transaction data.
-kf_product: product: information and medication categories.
-kf_kantor_cabang: branch data, including locations and ratings.
+kf_final_transaction: sales transaction data.  
+kf_product: product: information and medication categories.  
+kf_kantor_cabang: branch data, including locations and ratings.  
 kf_inventory: product inventory data for each branch.
 [LINK DATASET](https://drive.google.com/drive/folders/18x2S2g53FG0qkhbsfob9nnAcLd-mQ6ud?usp=drive_link)
 
