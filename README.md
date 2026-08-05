@@ -9,7 +9,7 @@ PT Kimia Farma (Persero) Tbk has grown into an integrated healthcare company in 
 To ensure the company’s sustainability in line with Kimia Farma vision of becoming the premier integrated healthcare company that generates sustainable value, Kimia Farma continues to innovate and collaborate to create harmony across the entire business chain, from upstream to downstream.
 
 ### **Dataset**
-This project uses four interconnected main datasets:
+This project uses four interconnected main datasets:  
 kf_final_transaction: sales transaction data.  
 kf_product: product: information and medication categories.  
 kf_kantor_cabang: branch data, including locations and ratings.  
